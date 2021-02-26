@@ -1,0 +1,193 @@
+body h1, h2, h3, p
+{
+	font-family: HelveticaNeue;
+}
+.navbar-nav
+{
+	margin-left: 50%;
+}
+footer
+{
+	background-color: #373A3C;
+	height: 50vh;
+	width: 100%;
+}
+footer h1
+{
+	font-size: 150%;
+	color: #7DD42F;
+}
+.container
+{
+	margin-left: 15%;
+	padding-top: 5%;
+}
+.container a
+{
+	color: white;
+}
+.container p
+{
+	margin-top: 5%;
+}
+.container img
+{
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.main
+{
+	background-image:linear-gradient(#757b82,#757b82), url("../img/CoD-WWII.png");
+	background-blend-mode: multiply;
+	height: 100vh;
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+}
+.main-button
+{
+	margin-left: 60%;
+	padding-top: 10%;
+}
+.main-button button
+{
+	width: 150px;
+	height: 40px;
+}
+.main p
+{
+	padding-left: 60%;
+	color: white;
+}
+.main h1
+{
+	padding-top: 10%;
+	padding-left: 60%;
+	color: white;
+}
+.about
+{
+	background: radial-gradient(100% 100% at 50% 0%, rgba(76, 80, 82, 0.1) 0%, rgba(95, 98, 101, 0.1) 100%);
+	width: 100%;
+	height: 100%;
+}
+.about h1
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: 200%;
+	padding-top: 5%;
+	color: #435766;
+}
+.about-button
+{
+	padding-left: 40%;
+	padding-top: 10%;
+}
+.about-button button
+{
+border:none;
+margin-left: 1%;
+}
+
+iframe
+{
+	margin-left: 28%;
+	margin-top: 5%;
+	height: 380px;
+	width: 680px;
+}
+.game
+{
+    background: radial-gradient(100% 100% at 50% 0%, rgba(76, 80, 82, 0.1) 0%, rgba(95, 98, 101, 0.1) 100%);
+	width: 100%;
+	height: 115vh;
+}
+.game-life h1, img
+{
+	display: inline-block;
+}
+.game-life h1
+{
+	width: 300px;
+	font-size: 200%;
+	padding-top: 13%;
+	margin-left: 25%;
+	color: #435766;
+}
+.game-life img
+{
+	margin-left: 5%;
+}
+.game-best h1, img
+{
+	display: inline-block;
+}
+.game-best h1
+{
+	font-size: 200%;
+	margin-left: 53%;
+	margin-top: 5%;
+	color: #435766;
+}
+.game-best img
+{
+	margin-left: 15%;
+	margin-top: -5%;
+}
+.tech
+{
+	background: radial-gradient(100% 100% at 50% 0%, rgba(76, 80, 82, 0.1) 0%, rgba(95, 98, 101, 0.1) 100%);
+	width: 100%;
+	height: 80vh;
+}
+.tech h1
+{
+	font-size: 200%;
+	text-align: center;
+	padding-top: 5%;
+	font-weight: bold;
+	color: #435766;
+}
+.col-sm-4 p
+{
+	width: 230px;
+	font-weight: bold;
+	color: #435766;
+}
+
+.tech-button
+{
+	padding-top: 5%;
+	margin-left: 35%;
+}
+.tech-button button
+{
+	border:none;
+	height: 50px;
+	width: 235px;
+
+}
+.line p
+{
+	color: white;
+}
+.footer-p1
+{
+	position: absolute;
+	margin-left: 10%;
+}
+.footer-p2
+{
+position: absolute;
+margin-left: 78%;
+}
+.line img
+{
+	margin-left: 10%;
+}
+@font-face
+{
+	font-family: HelveticaNeue;
+	src:url("../fonts/HelveticaNeueCyr-Thin.ttf");
+}

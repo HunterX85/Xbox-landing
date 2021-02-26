@@ -1,0 +1,974 @@
+@media only screen and (min-device-width: 320px) 
+and (max-device-height: 568px) 
+and (-webkit-device-pixel-ratio: 2) /*IPHONE 5*/
+{   
+.navbar-nav
+{
+	margin-left: 0;
+}
+.main
+	{
+		height: 50vh;
+	}
+.main p
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main h1
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main-button
+{
+	margin-left: 25%;
+	padding-top: 10%;
+}
+.main-button button
+{
+ margin-top: 5%;
+}
+ .container
+ {
+ 	margin-left: 0;
+ }
+ footer
+ {
+ 	height: 95vh;
+ }
+ .about-button
+{
+	padding-left: 32%;
+}
+ .about-button button
+{
+	margin-top: 5%;
+}
+iframe
+{
+
+	height:190px;
+	width: 300px;
+	margin-left: 3%;
+}
+.game
+{
+	height: 100%;
+}
+.game-life h1
+{
+	margin-left: 8%;
+	width: 280px;
+}
+.game-life img
+{
+	width: 100%;
+	height: 100%;
+	margin-left: 0;
+}
+.game-best h1
+{
+	margin-left: 10%;
+}
+.game-best img
+{
+	width: 100%;
+	height: 100%;
+	margin-left: 0;
+	margin-top: 2%;
+}
+
+.tech-button
+{
+	margin-left: 12%;
+}
+.tech-button button
+{
+	margin-top:2%;
+}
+.tech
+{
+	height: 120vh;
+}
+.line img
+{
+	width: 320px;
+	margin-left: 0;
+}
+
+.footer-p1
+{
+position: absolute;
+margin-left: 2%;
+}
+.footer-p2
+{
+position: absolute;
+margin-left: 80%;
+}
+.line p
+{
+font-size: 55%;
+}
+}
+@media only screen 
+and (min-device-width:360px)
+and (max-device-height:640px)
+{
+	.navbar-nav
+{
+	margin-left: 0;
+}
+    	.main
+	{
+		height: 50vh;
+	}
+	.main p
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main h1
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main-button
+{
+	margin-left: 31%;
+	padding-top: 10%;
+}
+.main-button button
+{
+ margin-top: 5%;
+}
+ .container
+ {
+ 	margin-left: 0;
+ }
+ footer
+ {
+ 	height: 90vh;
+ }
+   .about-button
+{
+	padding-left: 30%;
+}
+ .about-button button
+{
+	margin-top: 5%;
+}
+iframe
+{
+
+	height:230px;
+	width: 350px;
+	margin-left: 1%;
+}
+.game
+{
+	height: 100%;
+}
+.game-life h1
+{
+	margin-left: 13%;
+	width: 280px;
+}
+.game-life img
+{
+	width: 100%;
+	height: 100%;
+	margin-left: 0;
+}
+.game-best h1
+{
+	margin-left: 13%;
+}
+.game-best img
+{
+	width: 100%;
+	height: 100%;
+	margin-left: 0;
+	margin-top: 2%;
+}
+.tech-button
+{
+	margin-left: 18%;
+}
+.tech-button button
+{
+	margin-top:2%;
+}
+.tech
+{
+	height: 120vh;
+}
+.line img
+{
+	width: 360px;
+	margin-left: 0;
+}
+
+.footer-p1
+{
+position: absolute;
+margin-left: 2%;
+}
+.footer-p2
+{
+position: absolute;
+margin-left: 80%;
+}
+.line p
+{
+font-size: 55%;
+}
+}
+/* iphone 6, 6s, 7, 8 */
+@media only screen and (min-device-width: 375px) 
+and (max-device-height: 667px) 
+and (-webkit-device-pixel-ratio: 2) 
+{   
+	.navbar-nav
+{
+	margin-left: 0;
+}
+  	.main
+	{
+		height: 50vh;
+	}
+	.main p
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main h1
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main-button
+{
+	margin-left: 29%;
+	padding-top: 10%;
+}
+.main-button button
+{
+ margin-top: 5%;
+}
+ .container
+ {
+ 	margin-left: 0;
+ }
+ footer
+ {
+ 	height: 85vh;
+ }
+  .about-button
+{
+	padding-left: 32%;
+}
+ .about-button button
+{
+	margin-top: 5%;
+}
+iframe
+{
+
+	height:190px;
+	width: 300px;
+	margin-left: 10%;
+}
+.game
+{
+	height: 100%;
+}
+.game-life h1
+{
+	margin-left: 15%;
+	width: 280px;
+}
+.game-life img
+{
+	width: 100%;
+	height: 100%;
+	margin-left: 0;
+}
+.game-best h1
+{
+	margin-left: 15%;
+}
+.game-best img
+{
+	width: 100%;
+	height: 100%;
+	margin-left: 0;
+	margin-top: 2%;
+}
+.tech-button
+{
+	margin-left: 18%;
+}
+.tech-button button
+{
+	margin-top:2%;
+}
+.tech
+{
+	height: 110vh;
+}
+.line img
+{
+	width: 375px;
+	margin-left: 0;
+}
+
+.footer-p1
+{
+position: absolute;
+margin-left: 2%;
+}
+.footer-p2
+{
+position: absolute;
+margin-left: 80%;
+}
+.line p
+{
+font-size: 55%;
+}
+}
+/* iphone X , XS, 11 Pro */
+@media only screen and (min-device-width: 375px) 
+and (max-device-height: 812px) 
+and (-webkit-device-pixel-ratio: 3) 
+{   
+	.navbar-nav
+{
+	margin-left: 0;
+}
+    	.main
+	{
+		height: 50vh;
+	}
+	.main p
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main h1
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main-button
+{
+	margin-left: 31%;
+	padding-top: 10%;
+}
+.main-button button
+{
+ margin-top: 5%;
+}
+ .container
+ {
+ 	margin-left: 0;
+ }
+ footer
+ {
+ 	height: 70vh;
+ }
+  .about-button button
+{
+	margin-top: 5%;
+}
+.about-button
+{
+	margin-left: -7%;
+}
+iframe
+{
+
+	height:230px;
+	width: 350px;
+	margin-left: 3.5%;
+}
+.game
+{
+	height: 100%;
+}
+.game-life h1
+{
+	margin-left: 15%;
+	width: 280px;
+}
+.game-life img
+{
+	width: 100%;
+	height: 100%;
+	margin-left: 0;
+}
+.game-best h1
+{
+	margin-left: 15%;
+}
+.game-best img
+{
+	width: 100%;
+	height: 100%;
+	margin-left: 0;
+	margin-top: 2%;
+}
+.tech-button
+{
+	margin-left: 18%;
+}
+.tech-button button
+{
+	margin-top:2%;
+}
+.tech
+{
+	height: 90vh;
+}
+.line img
+{
+	width: 375px;
+	margin-left: 0;
+}
+
+.footer-p1
+{
+position: absolute;
+margin-left: 2%;
+}
+.footer-p2
+{
+position: absolute;
+margin-left: 80%;
+}
+.line p
+{
+font-size: 55%;
+}
+}
+@media only screen and (min-device-width: 411px) 
+and (max-device-height:823px)
+{
+	.navbar-nav
+{
+	margin-left: 0;
+}
+    	.main
+	{
+		height: 50vh;
+	}
+	.main p
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main h1
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main-button
+{
+	margin-left: 31%;
+	padding-top: 10%;
+}
+.main-button button
+{
+ margin-top: 5%;
+}
+ .container
+ {
+ 	margin-left: 0;
+ }
+ footer
+ {
+ 	height: 90vh;
+ }
+   .about-button
+{
+	padding-left: 20%;
+}
+ .about-button button
+{
+	margin-top: 5%;
+}
+iframe
+{
+
+	height:230px;
+	width: 350px;
+	margin-left: 8%;
+}
+.game
+{
+	height: 100%;
+}
+.game-life h1
+{
+	margin-left: 20%;
+	width: 280px;
+}
+.game-life img
+{
+	width: 100%;
+	height: 100%;
+	margin-left: 0;
+}
+.game-best h1
+{
+	margin-left: 20%;
+}
+.game-best img
+{
+	width: 100%;
+	height: 100%;
+	margin-left: 0;
+	margin-top: 2%;
+}
+.tech-button
+{
+	margin-left: 18%;
+}
+.tech-button button
+{
+	margin-top:2%;
+}
+.tech
+{
+	height: 100vh;
+}
+.line img
+{
+	width: 411px;
+	margin-left: 0;
+}
+
+.footer-p1
+{
+position: absolute;
+margin-left: 2%;
+}
+.footer-p2
+{
+position: absolute;
+margin-left: 80%;
+}
+.line p
+{
+font-size: 55%;
+}
+}
+/* iphone 6+, 6s+, 7+, 8+ */
+@media only screen and (min-device-width: 414px) 
+and (max-device-height: 736px) 
+and (-webkit-device-pixel-ratio: 3) 
+{   
+	.navbar-nav
+{
+	margin-left: 0;
+}
+    	.main
+	{
+		height: 50vh;
+	}
+	.main p
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main h1
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main-button
+{
+	margin-left: 31%;
+	padding-top: 10%;
+}
+.main-button button
+{
+ margin-top: 5%;
+}
+ .container
+ {
+ 	margin-left: 0;
+ }
+ footer
+ {
+ 	height: 80vh;
+ }
+   .about-button
+{
+	padding-left: 20%;
+}
+ .about-button button
+{
+	margin-top: 5%;
+}
+iframe
+{
+
+	height:230px;
+	width: 350px;
+	margin-left: 8%;
+}
+.game
+{
+	height: 100%;
+}
+.game-life h1
+{
+	margin-left: 20%;
+	width: 280px;
+}
+.game-life img
+{
+	width: 100%;
+	height: 100%;
+	margin-left: 0;
+}
+.game-best h1
+{
+	margin-left: 20%;
+}
+.game-best img
+{
+	width: 100%;
+	height: 100%;
+	margin-left: 0;
+	margin-top: 2%;
+}
+.tech-button
+{
+	margin-left: 18%;
+}
+.tech-button button
+{
+	margin-top:2%;
+}
+.tech
+{
+	height: 100vh;
+}
+.line img
+{
+	width: 414px;
+	margin-left: 0;
+}
+
+.footer-p1
+{
+position: absolute;
+margin-left: 2%;
+}
+.footer-p2
+{
+position: absolute;
+margin-left: 80%;
+}
+.line p
+{
+font-size: 55%;
+}
+}
+/* iphone XR, 11 */
+@media only screen and (min-device-width : 414px) 
+and (max-device-height : 896px) 
+and (-webkit-device-pixel-ratio : 2) 
+{   
+	.navbar-nav
+{
+	margin-left: 0;
+}
+    	.main
+	{
+		height: 50vh;
+	}
+	.main p
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main h1
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main-button
+{
+	margin-left: 31%;
+	padding-top: 10%;
+}
+.main-button button
+{
+ margin-top: 5%;
+}
+ .container
+ {
+ 	margin-left: 0;
+ }
+ footer
+ {
+ 	height: 65vh;
+ }
+   .about-button button
+{
+	margin-top: 5%;
+}
+.about-button
+{
+	margin-left: -9%;
+}
+iframe
+{
+
+	height:230px;
+	width: 350px;
+	margin-left: 6%;
+}
+.game
+{
+	height: 100%;
+}
+.game-life h1
+{
+	margin-left: 20%;
+	width: 280px;
+}
+.game-life img
+{
+	width: 100%;
+	height: 100%;
+	margin-left: 0;
+}
+.game-best h1
+{
+	margin-left: 20%;
+}
+.game-best img
+{
+	width: 100%;
+	height: 100%;
+	margin-left: 0;
+	margin-top: 2%;
+}
+.tech-button
+{
+	margin-left: 18%;
+}
+.tech-button button
+{
+	margin-top:2%;
+}
+.tech
+{
+	height: 80vh;
+}
+.line img
+{
+	width: 414px;
+	margin-left: 0;
+}
+
+.footer-p1
+{
+position: absolute;
+margin-left: 2%;
+}
+.footer-p2
+{
+position: absolute;
+margin-left: 80%;
+}
+.line p
+{
+font-size: 55%;
+}
+}
+
+/*ipad*/
+@media only screen and (min-width: 768px) and (max-width: 1024px)
+{   
+	.navbar-nav
+{
+	margin-left: 0;
+}
+      	.main
+	{
+		height: 50vh;
+	}
+	.main p
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main h1
+{
+	padding-left: 0;
+	text-align: center;
+}
+.main-button
+{
+	margin-left: 31%;
+	padding-top: 10%;
+}
+.main-button button
+{
+ margin-top: 5%;
+}
+ .container
+ {
+ 	margin-left: 0;
+ }
+ footer
+ {
+ 	height: 33vh;
+ }
+   .about-button button
+{
+	margin-top: 5%;
+}
+.about-button
+{
+	margin-left: -8%;
+}
+iframe
+{
+
+	height:280px;
+	width: 450px;
+	margin-left: 23%;
+}
+.game
+{
+	height: 100%;
+}
+.game-life h1
+{
+	margin-left: 37%;
+	width: 280px;
+}
+.game-life img
+{
+	width: 60%;
+	height: 60%;
+	margin-left: 23%;
+}
+.game-best h1
+{
+	margin-left: 37%;
+}
+.game-best img
+{
+	width: 60%;
+	height: 60%;
+	margin-left: 23%;
+	margin-top: 2%;
+}
+.tech-button
+{
+	margin-left: 20%;
+}
+
+.tech
+{
+	height: 40vh;
+}
+.line img
+{
+	width: 768px;
+	margin-left: 0;
+}
+
+.footer-p1
+{
+position: absolute;
+margin-left: 2%;
+}
+.footer-p2
+{
+position: absolute;
+margin-left: 85%;
+}
+.line p
+{
+font-size: 65%;
+}
+}
+
+ /*ipad pro*/
+@media only screen and (min-width: 1024px) 
+and (max-width: 1366px)
+{
+  .navbar-nav
+{
+	margin-left: 20%;
+}
+.main-button
+{
+	margin-left: 40%;
+}
+iframe
+{
+
+	margin-left: 28%;
+}
+.game
+{
+	height: 100%;
+}
+.game-life h1
+{
+	margin-left: 39%;
+	width: 280px;
+}
+.game-life img
+{
+	width: 60%;
+	height: 60%;
+	margin-left: 20%;
+}
+.game-best h1
+{
+	margin-left: 39%;
+}
+.game-best img
+{
+	width: 60%;
+	height: 60%;
+	margin-left: 20%;
+	margin-top: 2%;
+}
+.line img
+{
+	width: 1024px;
+	margin-left: 0;
+}
+footer
+{
+  height: 25vh; 
+}
+
+.footer-p1
+{
+position: absolute;
+margin-left: 2%;
+}
+.footer-p2
+{
+position: absolute;
+margin-left: 80%;
+}
+.line p
+{
+font-size: 70%;
+}
+}

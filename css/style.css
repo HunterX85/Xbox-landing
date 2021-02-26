@@ -1,0 +1,423 @@
+body h1, h2, h3, p
+{
+	font-family: HelveticaNeue;
+}
+.navbar-nav
+{
+	margin-left: 50%;
+}
+.main-zag h1
+{
+position: absolute;
+margin-left: 60%;
+margin-top: 15%;
+height: 43px;
+width: 200px;
+font-family: HelveticaNeue;
+font-size: 36px;
+line-height: 42px;
+color: #FFFFFF;
+font-weight: bold;
+}
+.main-zag h3
+{
+position: absolute;
+margin-left: 60%;
+margin-top: 17%;
+height: 43px;
+width: 200px;
+font-family: HelveticaNeue;
+font-size: 25px;
+line-height: 42px;
+color: #FFFFFF;
+font-weight: bold;
+}
+.but
+{
+	margin-left: 60%;
+	position: absolute;
+	margin-top: 30%;
+}
+.value
+{
+	background-image: url("../img/Rectangle.png");
+	background: radial-gradient(100% 100% at 50% 0%, #686C6F 0%, #373A3C 100%);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 120vh;
+}
+.value div
+{
+	display: inline-block;
+}
+.value img
+{
+	padding-left: 48%;
+	padding-top: 5%;
+}
+.value h1
+{
+	text-align: center;
+	padding-top: 2%;
+	font-size: 250%;
+	color: white;
+}
+.value h2
+{
+	text-align: center;
+	padding-top: 0;
+	font-size: 250%;
+	color: white;
+}
+.value-xbox
+{
+	background-color: white;
+	width: 318px;
+	height: 420px;
+	margin-left: 50%;
+	margin-top: 10%;
+
+}
+.value-xbox h1
+{
+	color: black;
+	font-size: 120%;
+	font-weight: bold;
+	width: 250px;
+	text-align: left;
+	padding-left: 3%;
+}
+.value-xbox p
+{
+	color: black;
+	font-size: 100%;
+	font-weight: bold;
+	padding-left: 3%;
+	padding-top: 7%;
+}
+.value-xbox img
+{
+margin-left: -48%;
+margin-top: -5%;
+}
+.value-xbox button
+{
+	background-color: #8DD83D;
+	border:none;
+	margin-left: 10%;
+	margin-top: 10%;
+	height: 50px;
+}
+
+.value-mixer
+{   position: absolute;
+	background-color: white;
+	width: 318px;
+	height: 420px;
+	margin-left: 20%;
+	margin-top: 2%;
+}
+.value-mixer img
+{
+	margin-left: 19%;
+	margin-top: 8%;
+	padding-left: 0;
+}
+.mixer
+{
+	background-color: #FAFAFA;
+	width: 100%;
+	height: 180px;
+}
+.value-mixer h1
+{
+	color: black;
+	font-size: 120%;
+	font-weight: bold;
+	width: 250px;
+	text-align: left;
+	padding-left: 3%;
+}
+.value-mixer p
+{
+	color: black;
+	font-size: 100%;
+	font-weight: bold;
+	padding-left: 3%;
+	padding-top: 7%;
+}
+.value-mixer button
+{
+	background-color: #8DD83D;
+	border:none;
+	margin-left: 10%;
+	margin-top: 10%;
+	height: 50px;
+}
+.value-gold
+{   
+	background-color: white;
+	width: 318px;
+	height: 420px;
+	margin-left: 50%;
+	margin-top: 2%;
+}
+.value-gold h1
+{
+	color: black;
+	font-size: 120%;
+	font-weight: bold;
+	width: 200px;
+	text-align: left;
+	padding-left: 3%;
+}
+.value-gold p
+{
+	color: black;
+	font-size: 100%;
+	font-weight: bold;
+	padding-left: 3%;
+	padding-top: 7%;
+}
+.value-gold button
+{
+	background-color: #8DD83D;
+	border:none;
+	margin-left: 30%;
+	margin-top: 10%;
+	height: 50px;
+}
+.gold
+{
+	background-color: #FAFAFA;
+	width: 100%;
+	height: 180px;
+}
+.value-gold img
+{
+	margin-left: 19%;
+	margin-top: 8%;
+	padding-left: 0;
+}
+.games
+{   
+	background-image: linear-gradient(#757b82,#757b82), url("../img/cod.png");
+	background-blend-mode: multiply;
+	width: 100%;
+	height: 140vh;
+	background-size: cover;
+	background-position: center;
+}
+
+.games h1
+{
+	text-align: center;
+	color: white;
+	padding-top: 5%;
+	width: 100%;
+}
+.games-info 
+{
+	display:flex;
+	margin-left: 15%;
+}
+
+
+.cod
+{
+    transition:all 0.3s;
+    background-color: white;
+    width: 318px;
+    height: 420px;
+    margin-top: 3%;
+    margin-left: 1%;
+}
+.cod h1
+{
+	color: black;
+	font-size: 120%;
+	font-weight: bold;
+	width: 250px;
+	text-align: left;
+	padding-left: 3%;
+}
+.cod p
+{
+	color: black;
+	font-size: 100%;
+	font-weight: bold;
+	padding-left: 3%;
+	padding-top: 7%;
+}
+.cod button
+{
+background-color: #8DD83D;
+	border:none;
+	margin-left:10%;
+	margin-top: 15%;
+	height: 50px;
+	width: 250px;
+}
+.cod:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.3);
+}
+.destiny
+{
+    transition:all 0.3s;
+    background-color: white;
+    width: 318px;
+    height: 420px;
+    margin-top: 2.6%;
+    margin-left: 25%;
+    position: absolute;
+
+}
+.destiny:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.3);
+}
+.destiny p
+{
+	color: black;
+	font-size: 100%;
+	font-weight: bold;
+	padding-left: 3%;
+	padding-top: 7%;
+}
+.destiny button
+{
+	background-color: #8DD83D;
+	border:none;
+	margin-left:10%;
+	margin-top: 37%;
+	height: 50px;
+	width: 250px;
+}
+.stp
+{
+	position: absolute;
+	margin-top: 2.6%;
+    margin-left: 48.8%;
+	background-color: white;
+	width: 318px;
+    height: 420px;
+    transition:all 0.3s;
+}
+.stp p
+{
+	color: black;
+	font-size: 100%;
+	font-weight: bold;
+	padding-left: 3%;
+	padding-top: 7%;
+}
+.stp button
+{
+	background-color: #8DD83D;
+	border:none;
+	margin-left:10%;
+	margin-top: 37%;
+	height: 50px;
+	width: 250px;
+}
+.stp:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.3);
+}
+.xbtn
+{
+	margin-top: 15%;
+	margin-left: 45%;
+	background: linear-gradient(180deg, #686C6F 0%, #373A3C 100%);
+	border:none;
+	border-radius: 4px;
+	width: 150px;
+	height: 50px;
+}
+.lab
+{
+	background-image:radial-gradient(100% 100% at 50% 0%, rgba(193, 255, 127, 0.1) 0%, rgba(141, 216, 61, 0.1) 100%), url("../img/labbg.png");
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	height: 80vh;
+}
+.lab h1
+{
+	padding-left: 9%;
+	padding-top: 7%;
+	font-size: 350%;
+	font-weight: bold;
+	color: white;
+}
+.lab p
+{
+		padding-left: 9%;
+	padding-top: 1%;
+	font-size: 150%;
+	width: 700px;
+	font-weight: bold;
+	color: white;
+}
+.lab-btn
+{
+	margin-left: 9%;
+}
+
+footer
+{
+	background-color: #373A3C;
+	height: 50vh;
+	width: 100%;
+}
+footer h1
+{
+	font-size: 150%;
+	color: #7DD42F;
+}
+.container
+{
+	margin-left: 15%;
+	padding-top: 5%;
+}
+.container a
+{
+	color: white;
+}
+.container p
+{
+	margin-top: 5%;
+}
+.container img
+{
+	margin-top: 2%;
+	margin-left: 2%;
+}
+.line p
+{
+	color: white;
+}
+.footer-p1
+{
+	position: absolute;
+	margin-left: 10%;
+}
+.footer-p2
+{
+position: absolute;
+margin-left: 78%;
+}
+.line img
+{
+	margin-left: 10%;
+}
+@font-face
+{
+	font-family: HelveticaNeue;
+	src:url("../fonts/HelveticaNeueCyr-Thin.ttf");
+}
