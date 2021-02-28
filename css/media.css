@@ -1,7 +1,7 @@
 
 @media only screen and (max-width : 760px)
-{
-	.navbar-nav
+{ 
+.navbar-nav
 {
 	margin-left: 0;
 }
@@ -35,7 +35,7 @@ font-size: 15px;
 }
 .value
 {
-	height: 260vh;
+	height: 240vh;
 }
 .value img
 {
@@ -47,7 +47,7 @@ font-size: 15px;
 }
 .value-xbox
 {
-	margin-left: 6%;
+	margin-left: 7%;
 }
 .value-xbox img
 {
@@ -55,7 +55,7 @@ font-size: 15px;
 }
 .value-mixer
 { 
-	margin-left: 6%;
+	margin-left: 7%;
 	margin-top: 2%;
 }
 .value-mixer img
@@ -64,8 +64,8 @@ font-size: 15px;
 }
 .value-gold
 {
-	margin-top: 121%;
-	margin-left: 6%;
+	margin-top: 116%;
+	margin-left: 7%;
 }
 .value-gold img
 {
@@ -75,12 +75,12 @@ font-size: 15px;
 }
 .games
 {
-	height: 255vh;
+	height: 240vh;
 }
 .games-info 
 {
 	display:inline-block;
-	margin-left: 5%;
+	margin-left: 7%;
 }
 .destiny
 {
@@ -125,11 +125,11 @@ font-size: 15px;
 }
 footer
 {
-	height: 90vh;
+	height: 85vh;
 }
 .line img
 {
-	width: 360px;
+	width: 375px;
 	margin-left: 0;
 }
 
@@ -146,205 +146,5 @@ margin-left: 80%;
 .line p
 {
 font-size: 55%;
-}
-}
-
-@media only screen and (min-width: 768px) and (max-width: 1024px) /*ipad*/
-{
-.main-zag h3
-{
-margin-top: 18%;
-}
-	.navbar-nav
-{
-	margin-left: 0;
-}
-.value div
-{
-	display: inline-block;
-}
-.value-xbox
-{
-	margin-left: 7%;
-}
-.value-mixer
-{
-	margin-top: 4%;
-	margin-left: 15%;
-}
-.value-gold
-{
-	margin-left: 30%;
-	margin-top: 3%;
-}
-.games
-{
-	height: 120vh;
-}
-.games-info 
-{
-	display:flex;
-	margin-left: 7%;
-}
-.destiny
-{
-    transition:all 0.3s;
-    margin-left: 13%;
-    position: inherit;
-}
-.stp
-{
-	transition:all 0.3s;
-    margin-left: -75%;
-    margin-top: 65%;
-    position: inherit;
-}
-  .xbtn
-  {
-    margin-left: 39%;
-  }
-  .cod
-  {
-  	margin-left: -4%;
-  }
-     .stp:hover {
-  transform: none;
-}
-   .destiny:hover {
-  transform: none;
-}
-   .cod:hover {
-  transform: none;
-}
-.lab
-{
-	height: 35vh;
-}
-.container
-{
-	margin-left: 0;
-}
-.line img
-{
-	width: 768px;
-	margin-left: 0;
-}
-footer
-{
-	height: 33vh;
-}
-.footer-p1
-{
-position: absolute;
-margin-left: 2%;
-}
-.footer-p2
-{
-position: absolute;
-margin-left: 85%;
-}
-.line p
-{
-font-size: 65%;
-}
-}
-@media only screen and (min-width: 1024px) and (max-width: 1366px) /*ipad pro*/
-{
-	.navbar-nav
-{
-	margin-left: 25%;
-}
-.value-xbox
-{
-	margin-left: 4%;
-}
-.value-mixer
-{
-	margin-top: 3%;
-	margin-left: 3%;
-}
-.value-gold
-{
-	margin-left: 36%;
-	margin-top: 3%;
-}
-    .stp:hover {
-  transform: none;
-}
-   .destiny:hover {
-  transform: none;
-}
-   .cod:hover {
-  transform: none;
-}
-.games-info 
-{
-	display:flex;
-	margin-left: 2.5%;
-}
-.destiny
-{
-    transition:all 0.3s;
-    margin-left: 1%;
-    position: inherit;
-}
-.stp
-{
-	transition:all 0.3s;
-    margin-left: 1%;
-    margin-top: 2.5%;
-    position: inherit;
-}
-  .xbtn
-  {
-    margin-left: 39%;
-  }
-  .cod
-  {
-  	margin-left: 0;
-  }
-     .stp:hover {
-  transform: none;
-}
-   .destiny:hover {
-  transform: none;
-}
-   .cod:hover {
-  transform: none;
-}
-.value
-{
-	height: 60vh;
-}
-.games
-{
-	height: 60vh;
-}
-.games button
-{
-	margin-left: 45%;
-}
-.line img
-{
-	width: 1024px;
-	margin-left: 0;
-}
-footer
-{
-  height: 25vh; 
-}
-.footer-p1
-{
-position: absolute;
-margin-left: 2%;
-}
-.footer-p2
-{
-position: absolute;
-margin-left: 80%;
-}
-.line p
-{
-font-size: 70%;
 }
 }
