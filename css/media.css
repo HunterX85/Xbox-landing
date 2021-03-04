@@ -35,7 +35,7 @@ font-size: 15px;
 }
 .value
 {
-	height: 240vh;
+	height: 100%;
 }
 .value img
 {
@@ -75,7 +75,7 @@ font-size: 15px;
 }
 .games
 {
-	height: 240vh;
+	height: 100%;
 }
 .games-info 
 {
@@ -125,7 +125,7 @@ font-size: 15px;
 }
 footer
 {
-	height: 85vh;
+	height: 70vh;
 }
 .line img
 {
